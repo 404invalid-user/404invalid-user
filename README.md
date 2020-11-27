@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+
+
+
+![git stats](https://github-readme-stats.vercel.app/api?username=404invalid-user&show_icons=true&theme=radical)
 
 <!--
 **404invalid-user/404invalid-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
