@@ -3,7 +3,8 @@
 [![git stats](https://github-readme-stats.vercel.app/api?username=404invalid-user&show_icons=true&theme=radical)](https://invaliduser.uk.to)
 #### top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://invaliduser.uk.to)
-
+#### pc specs
+<a title="pc" href="https://invaliduser.uk.to/pcspecs.html"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-5350u/8gb/intel-hd-6000/twitch.png"></a>
 <!--
 **404invalid-user/404invalid-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
