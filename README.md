@@ -11,7 +11,7 @@
   - open source: **soon** - I need to finish making and testing it first 
 
 
-#### top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://invaliduser.uk.to)
-#### pc specs
+### top languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://invaliduser.uk.to/projects/)
+### pc specs
 <a title="pc" href="https://invaliduser.uk.to/pcspecs.html"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-5350u/8gb/intel-hd-6000/twitch.png"></a>
