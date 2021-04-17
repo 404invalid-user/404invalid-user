@@ -7,8 +7,8 @@
 - https://invaliduser.tk - my website with cool things on it
   - open source: **yes** - not really a way to make it closed source 
 
-- https://shrekbot.tk - a discord bot called shrek 
-  - open source: **soon** - I need to finish making and testing it first 
+- https://lagnet.glitch.me - an easy guide on how to make a public hotspot with login on a raspberry pi
+  - open source: **yes** - all of it is open source and you can find it on [github](https://github.com/thelagnet)
 
 
 ### top languages 
