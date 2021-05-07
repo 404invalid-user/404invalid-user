@@ -4,12 +4,20 @@
 
 ### current projects 
 
-- https://invaliduser.tk - my website with cool things on it
-  - open source: **yes** - not really a way to make it closed source 
+- nothing
+  - currently doing GCSES so no projects untill i have done them
 
-- https://lagnet.glitch.me - an easy guide on how to make a public hotspot with login on a raspberry pi
-  - open source: **yes** - all of it is open source and you can find it on [github](https://github.com/thelagnet)
+### top projects
 
+- [thelagnet](https://lagnet.glitch.me)
+  - a guide and soon to be automatic script to setup a open access point with login that runs on aa raspberry pi
+
+- [imageupload](https://github.com/404invalid-user/imageupload)
+  - a website that lets you upload images (image server) built with nodejs and express 
+
+- [web-host-sky-remote](https://github.com/404invalid-user/web-host-sky-remote)
+  - my first ever project that i made all by myself!
+  - control your sky Q box over your LAN using any web browser made after 2000 that supports js
 
 ### top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://invaliduser.uk.to/projects/)
