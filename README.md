@@ -5,15 +5,15 @@
 ### current projects 
 
 - nothing
-  - currently doing GCSES so no projects untill i have done them
+  - a pasebin using nodejs
 
 ### top projects
 
-- [thelagnet](https://lagnet.glitch.me)
-  - a guide and soon to be automatic script to setup a open access point with login that runs on aa raspberry pi
-
 - [imageupload](https://github.com/404invalid-user/imageupload)
   - a website that lets you upload images (image server) built with nodejs and express 
+
+- [thelagnet](https://lagnet.glitch.me)
+  - a guide and soon to be automatic script to setup a open access point with login that runs on aa raspberry pi
 
 - [web-host-sky-remote](https://github.com/404invalid-user/web-host-sky-remote)
   - my first ever project that i made all by myself!
