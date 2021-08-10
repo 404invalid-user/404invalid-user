@@ -4,8 +4,8 @@
 
 ### current projects 
 
-- nothing
-  - a pasebin using nodejs
+- shrekbot
+  - a fun discord bot based on shrek
 
 ### top projects
 
