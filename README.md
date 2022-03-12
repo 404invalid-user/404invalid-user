@@ -1,25 +1,33 @@
-### 404invalid-user 
+### 404invalid-user
+Hello, i'm 404invalid-user or just invaliduser I like to think that i can code ~~eventhough i can't~~.
+#### Contact
+email: user (at) invalidlag (dot) com
+discord: https://discord.gg/RYQbmj7
 
-[![git stats](https://github-readme-stats.vercel.app/api?username=404invalid-user&show_icons=true&theme=radical)](https://invaliduser.uk.to)
+[![git stats](https://github-readme-stats.vercel.app/api?username=404invalid-user&show_icons=true&theme=radical)](https://github.com/404invalid-user?tab=repositories)
 
-### current projects 
+### current projects
 
-- shrekbot
-  - a fun discord bot based on shrek
+- [MC-status-bot](https://github.com/404invalid-user/MC-status-bot)
+  - a discord bot that shows the status or your minecraft server
+   - website: na
+   - opensource: yes
+   - finished: no
+   - todo/plan: na
 
-### top projects
+- [bisot](https://bisot.xyz)
+  - upload images, text, files and add links to your profile accessible by a custom domain
+   - website: https://bisot.xyz
+   - opensource: no
+   - finished: no
+   - todo/plan: https://trello.com/b/dJwap4Gi/bisotxyz
 
-- [imageupload](https://github.com/404invalid-user/imageupload)
-  - a website that lets you upload images (image server) built with nodejs and express 
-
-- [thelagnet](https://lagnet.glitch.me)
-  - a guide and soon to be automatic script to setup a open access point with login that runs on aa raspberry pi
-
-- [web-host-sky-remote](https://github.com/404invalid-user/web-host-sky-remote)
-  - my first ever project that i made all by myself!
-  - control your sky Q box over your LAN using any web browser made after 2000 that supports js
+- [knightrider](https://github.com/404invalid-user/knightrider)
+  - an all purpose discord bot for moderation and roles
+   - website: na
+   - opensource: yes
+   - finished: no
+   - todo/pan: na
 
 ### top languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://invaliduser.uk.to/projects/)
-### pc specs
-<a title="pc" href="https://invaliduser.uk.to/pcspecs.html"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-5350u/8gb/intel-hd-6000/twitch.png"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404invalid-user)](https://github.com/404invalid-user?tab=repositories)
